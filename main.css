@@ -1,0 +1,37 @@
+.game {
+  height: 700px;
+  background: url('bg.jpg') no-repeat;
+  background-position: 0 100%;
+}
+.container {
+  max-width: 1300px;
+  margin: 2% auto;
+  text-align: center;
+}
+.cart {
+  margin: 10px;
+  width: 100px;
+  height: 150px;
+  box-sizing: border-box;
+  border: 1px solid #AFEEEE;
+  display: inline-block;
+  background-size: cover;
+  background: url('bg_image.jpg') no-repeat;
+}
+.info {
+  color: #00BFFF;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+button {
+  display: none;
+  background: transparent;
+  color: #00BFFF;
+  padding: 20px;
+  font-size: 20px;
+  border: 1px solid #AFEEEE;
+  width: 170px;
+  margin: 0 auto;
+}
